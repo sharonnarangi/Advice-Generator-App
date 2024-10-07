@@ -36,6 +36,6 @@ body{
     letter-spacing: 0.345714rem;
     color: #53ffaa;
 }
-@media screen  and (Min-width: 545px){
+@media screen  and (Min-width=444){
     
 }
