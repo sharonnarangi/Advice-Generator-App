@@ -17,3 +17,12 @@ body{
     grid: max-content 3.2rem;
     align-items: center;
 }
+.Advice-Generator-Output{
+    background: #313a48;
+    padding: 4rem 2.4rem 6.4rem;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 2.4rem;
+    align-items: center;
+    justify-content: center;
+}
