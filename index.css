@@ -1,0 +1,9 @@
+*{
+   font-family: url("https://fonts.google.com/specimen/Manrope") 
+}
+
+body{
+    background:#202733 ;
+    display: grid;
+    align-items: center;
+}
