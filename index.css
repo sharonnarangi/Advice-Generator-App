@@ -25,4 +25,17 @@ body{
     gap: 2.4rem;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+.Advice-Generator-Advice-Number{
+    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    letter-spacing: 0.345714rem;
+    color: #53ffaa;
+}
+@media screen  and (Min-width: 545px){
+    
 }
