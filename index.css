@@ -7,3 +7,12 @@ body{
     display: grid;
     align-items: center;
 }
+
+.Advice-Generator{
+    font-family: "Manrope" , sans-serif;
+    width: 100%;
+    max-width: 54rem;
+    display: grid;
+    grid: max-content 3.2rem;
+    align-items: center;
+}
