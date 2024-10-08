@@ -51,6 +51,9 @@ body{
 
     }
 }
+.Advice-Generator-Quote{
+    color: white;
+}
 
 .Advice-Generator-Divider{
     display: flex;
@@ -64,6 +67,8 @@ picture img{
     width: 6.4rem;
     height: 6.4rem;
     background: #53ffaa;
+    border-radius: 50%;
+    align-items: center;
     
 
 }
