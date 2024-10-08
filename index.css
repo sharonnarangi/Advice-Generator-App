@@ -69,6 +69,8 @@ picture img{
     background: #53ffaa;
     border-radius: 50%;
     align-items: center;
-    
+    box-shadow: 250ms;
+    cursor: pointer;
+    margin: auto;
 
 }
